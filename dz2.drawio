@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="f4OqZIINhsxnTTrDXZVI">
+    <mxGraphModel dx="1166" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Конец" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-29" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5qj5kWJ-69sD6QGODBv-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div style=&quot;text-decoration-line: inherit;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-decoration-line: inherit;&quot;&gt;Вывод:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&quot;Тогда мальчик пробежал s км за t часов&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-28" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5qj5kWJ-69sD6QGODBv-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Время:&lt;div&gt;t = s / sk_b&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-27" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5qj5kWJ-69sD6QGODBv-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ввод: s&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="582" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-26" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5qj5kWJ-69sD6QGODBv-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вывод:&lt;/div&gt;&lt;div&gt;&quot;Введите значение s в км&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="493" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-18" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5qj5kWJ-69sD6QGODBv-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Скорость ходьбы мальчика:&lt;/div&gt;sk_h = 4" vertex="1">
+          <mxGeometry height="80" width="200" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-17" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="d5qj5kWJ-69sD6QGODBv-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Начало" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-24" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="d5qj5kWJ-69sD6QGODBv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cкорость бега мальчика:&lt;div&gt;sk_b = sk_h * 3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-23" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="d5qj5kWJ-69sD6QGODBv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вывод:&lt;/div&gt;&lt;div&gt;&quot;Скорость ходьбы sk_h км&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-25" edge="1" parent="1" source="d5qj5kWJ-69sD6QGODBv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="d5qj5kWJ-69sD6QGODBv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d5qj5kWJ-69sD6QGODBv-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вывод:&lt;/div&gt;&lt;div&gt;&quot;Скорость бега sk_b км&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
